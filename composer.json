@@ -1,5 +1,5 @@
 {
     "require": {
-        "ayesh/instagram-download": "5.0.0"
+        "pgrimaud/instagram-user-feed": "^6.8"
     }
 }
